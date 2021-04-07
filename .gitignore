@@ -1,0 +1,10 @@
+# IDE directory
+.vscode
+
+
+# Environment directory
+env
+
+
+# Files Produced by logger
+*.log
